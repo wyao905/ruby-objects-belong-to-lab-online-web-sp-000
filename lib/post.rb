@@ -3,4 +3,4 @@ class Post
 end
 
 post = Post.new("title")
-post.author = author
+post.author = post_author
